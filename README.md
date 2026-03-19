@@ -47,7 +47,7 @@ The visualization showed that the token `"data"` remained rare for centuries, th
 
 ## Visualization
 
-![Occurrences of the token 'data' over time](images/data%20token%20freq%20line%20plot.png)
+![Occurrences of the token 'data' over time](images/'data'%20token%20freq%20line%20plot.png)
 
 ## Repository Contents
 - `reports/` – project report in PDF format
