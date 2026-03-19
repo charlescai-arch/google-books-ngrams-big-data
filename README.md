@@ -47,7 +47,7 @@ The visualization showed that the token `"data"` remained rare for centuries, th
 
 ## Visualization
 
-![Occurrences of the token 'data' over time](images/google_books_ngrams_plot.png)
+![Occurrences of the token 'data' over time](images/'data' token freq line plot.png)
 
 ## Repository Contents
 - `reports/` – project report in PDF format
